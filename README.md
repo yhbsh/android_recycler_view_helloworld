@@ -1,0 +1,1 @@
+- RecyclerView is a srollable widget that renders children efficiently (only visible children are rendered on the screen)
